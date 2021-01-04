@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### h4ppyy
+
+#### I'm a full-stack engineer 🔥
+
+- I mainly do github activities and qiita activities 
+
+**My SNS**
+- https://qiita.com/airix (japanese)
+- https://twitter.com/hackerYasda (japanese)
+- http://blog.naver.com/93immm (korean)
+- http://blog.naver.com/hackx (korean)
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=christhoval06&count_private=true&show_icons=true)
