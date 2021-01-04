@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **christhoval06/christhoval06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,16 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-### h4ppyy
+### christhoval06
 
 #### I'm a full-stack engineer 🔥
 
-- I mainly do github activities and qiita activities 
-
-**My SNS**
-- https://qiita.com/airix (japanese)
-- https://twitter.com/hackerYasda (japanese)
-- http://blog.naver.com/93immm (korean)
-- http://blog.naver.com/hackx (korean)
+- I mainly do github activities
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=christhoval06&count_private=true&show_icons=true)
