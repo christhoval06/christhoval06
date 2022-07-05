@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-### christhoval06
 ### Hi, I'm [Christhoval Barba](https://christhoval.dev/), I'm a full-stack Engineer 🔥
 
 - [x] Back-End
