@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <tr><th scope='row'>Full Name</th><td>Christhoval Barba Rivas</td></tr>
 <tr><th scope='row'>Date of Birth</th><td><time datetime="1989-01-06 04:00">January 06, 1989</time></td></tr>
 <tr><th scope='row'>Country of Birth</th><td>Darien, Panama</td></tr>
-<tr><th scope='row'>Nationality</th><td>Panamanian</td></tr>
+<tr><th scope='row'>Nationality</th><td>Panama</td></tr>
 <tr><th scope='row'>College Degree</th><td>B.S. in Computer Science</td></tr>
 <tr><th scope='row'>Alma Mater</th><td>University Technological of Panama | Faculty of Systems and Computing</td></tr>
 <tr><th scope='row'>Occupation</th><td>Tech Lead Front-End</td></tr>
