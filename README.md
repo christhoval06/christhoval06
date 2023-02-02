@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi, I'm [Christhoval Barba](https://christhoval.dev/), I'm a full-stack Engineer 🔥
+### Hi 👋, I'm [Christhoval Barba](https://christhoval.dev/), I'm a fullstack Engineer 🔥
 
 - [x] Back-End
 - [x] Front-End
@@ -25,7 +25,22 @@ Here are some ideas to get you started:
 - [x] UI/UX
 - [x] Innovation  
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=christhoval06&count_private=true&show_icons=true)
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=christhoval06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christhoval06&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<br/> 
+
+<br/> 
+
+<br/> 
 
 <table>
 <thead>
