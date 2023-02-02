@@ -25,22 +25,6 @@ Here are some ideas to get you started:
 - [x] UI/UX
 - [x] Innovation  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=christhoval06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christhoval06&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/> 
-
-<br/> 
-
-<br/> 
 
 <table>
 <thead>
@@ -189,3 +173,20 @@ Elixir</td></tr>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </div>  
+
+<br/> 
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=christhoval06&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christhoval06&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<br/> 
+
+<br/> 
